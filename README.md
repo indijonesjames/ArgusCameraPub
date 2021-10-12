@@ -1,6 +1,6 @@
 # Argus Camera
 
-This is a collection of sample applications which utilize various functionalitis of LibArgus and CUDA.
+This is a collection of sample applications which utilize various functionalities of LibArgus and CUDA.
 
 These applications work with our Framos cameras - as well as any i2c devices that mount properly on Ubuntu. 
 
