@@ -2,7 +2,7 @@
 
 This is a collection of sample applications which utilize various functionalities of LibArgus and CUDA.
 
-These applications work with our Framos cameras - as well as any i2c devices that mount properly on Ubuntu. 
+These applications work with any Argus or Nvidia friendly cameras - as well as any i2c devices that mount properly on Ubuntu. 
 
 The collection of applications is built, or thrown together from various implementations of CUDA, LibArgus, and V4L2 functionalties found in APIs and standard documentation of those things. 
 
